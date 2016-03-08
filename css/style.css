@@ -5,12 +5,12 @@
 
 body {
 	font-family: "Tahoma", sans-serif; 
-	color: #666;
-	font-size: 16px; 
-	background: #f9f9f9; 
-	line-height: 1.6em; 
-	background-image: url("https://pixabay.com/get/e834b00620f1023ed1534705fb094796e371e4dc18ac104590f7c57ea2e4b0ba/question-mark-1119853_1920.jpg");
-
+	color: #000; 
+	font-size: 17px; 
+	background: #8c8969; 
+	line-height: 1.9em; 
+	background-image: url("https://pixabay.com/get/e834b00620f1023ed1534705fb094796e371e4dc18ac104590f7c57ea2e4b0ba/question-mark-1119853_1920.jpg");  
+	
 }
 
 ul, li {
@@ -33,4 +33,5 @@ h1{
 	color: #fff;
 	text-align: center; 
 	padding-top: 13px; 
+	border-radius: 10px;
 }
