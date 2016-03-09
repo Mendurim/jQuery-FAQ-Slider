@@ -35,3 +35,15 @@ h1{
 	padding-top: 13px; 
 	border-radius: 10px;
 }
+
+.faq li {
+	padding: 20px; 
+}
+
+.faq li .q{
+	background: #d1c959;
+	font-weight: bold;
+	font-size: 120%;
+	border-bottom: 1px #ddd solid;
+	cursor: pointer; 
+}
