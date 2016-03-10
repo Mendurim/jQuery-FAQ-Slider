@@ -9,7 +9,7 @@ body {
 	font-size: 17px; 
 	background: #f9f9f9; 
 	line-height: 1.6em; 
-	/*background-image: url("https://pixabay.com/get/e834b00620f1023ed1534705fb094796e371e4dc18ac104590f7c57ea2e4b0ba/question-mark-1119853_1920.jpg");  */
+	background-image: url("https://pixabay.com/get/e834b00620f1023ed1534705fb094796e371e4dc18ac104590f7c57ea2e4b0ba/question-mark-1119853_1920.jpg");  
 	
 }
 
@@ -51,6 +51,12 @@ h1{
 .faq li.a {
 	background: #ddd; 
 	display: none; 
+}
+
+.rotate {
+	-moz-transform:rotate(90deg);
+	-webkit-transform:rotate(90deg);
+	transform:rotate(90deg);
 }
 
 @media(max-width: 800px) {
