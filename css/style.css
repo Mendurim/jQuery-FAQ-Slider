@@ -47,3 +47,14 @@ h1{
 	border-bottom: 1px #ddd solid;
 	cursor: pointer; 
 }
+
+.faq li.a {
+	background: #ddd; 
+	display: none; 
+}
+
+@media(max-width: 800px) {
+	#container{
+		width: 90%; 
+	}
+}
