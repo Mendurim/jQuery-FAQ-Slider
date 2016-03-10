@@ -5,11 +5,11 @@
 
 body {
 	font-family: "Tahoma", sans-serif; 
-	color: #000; 
+	color: #666; 
 	font-size: 17px; 
-	background: #8c8969; 
-	line-height: 1.9em; 
-	background-image: url("https://pixabay.com/get/e834b00620f1023ed1534705fb094796e371e4dc18ac104590f7c57ea2e4b0ba/question-mark-1119853_1920.jpg");  
+	background: #f9f9f9; 
+	line-height: 1.6em; 
+	/*background-image: url("https://pixabay.com/get/e834b00620f1023ed1534705fb094796e371e4dc18ac104590f7c57ea2e4b0ba/question-mark-1119853_1920.jpg");  */
 	
 }
 
@@ -40,8 +40,8 @@ h1{
 	padding: 20px; 
 }
 
-.faq li .q{
-	background: #d1c959;
+.faq li.q{
+	background: #eee;
 	font-weight: bold;
 	font-size: 120%;
 	border-bottom: 1px #ddd solid;
